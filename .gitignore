@@ -1,0 +1,13 @@
+venv
+gradebook_demo_site/demo.db
+gradebook_demo_site/media
+build
+dist
+test
+
+
+*.egg-info
+*.pyc
+*~
+.DS_Store
+olddata.pickle
